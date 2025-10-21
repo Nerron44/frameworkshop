@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frameworkshop/static/css/main.c1a67e13.css",
+    "main.js": "/frameworkshop/static/js/main.0dd74639.js",
+    "index.html": "/frameworkshop/index.html",
+    "main.c1a67e13.css.map": "/frameworkshop/static/css/main.c1a67e13.css.map",
+    "main.0dd74639.js.map": "/frameworkshop/static/js/main.0dd74639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a67e13.css",
+    "static/js/main.0dd74639.js"
+  ]
+}
